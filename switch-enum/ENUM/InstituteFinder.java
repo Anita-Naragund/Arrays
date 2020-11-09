@@ -46,19 +46,19 @@ public static void lowestAndBestestUsingEnum(Institute instituteName)
 	System.out.println("arg 1 instituteName :"+instituteName);
 	switch(instituteName)
 	{
-		case "Xworkz":
+		case XWORKZ:
 		System.out.println("case is :"+instituteName);
 		System.out.println("Entriprise development");
 		System.out.println("cost is 20k");
 		break;
 		
-		case "abc":
+		case ABC:
 		System.out.println("case is :"+instituteName);
 		System.out.println("java");
 		System.out.println("cost is 30k");
 		break;
 		
-		case "pentagon":
+		case PENTAGON:
 		System.out.println("case is :"+instituteName);
 		System.out.println("Python");
 		System.out.println("cost is 50k");
