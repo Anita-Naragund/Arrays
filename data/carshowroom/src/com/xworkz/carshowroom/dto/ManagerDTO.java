@@ -24,4 +24,12 @@ public class ManagerDTO {
 		return contactNo;
 	}
 
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public void setContactNo(long contactNo) {
+		this.contactNo = contactNo;
+	}
+
 }

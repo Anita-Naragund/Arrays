@@ -10,9 +10,10 @@ public class CarTester {
 		CarShowRoom showRoom = new CarShowRoom();
 		showRoom.addManager("Raju",7896541231l);
 		showRoom.displayManager();
-		showRoom.addManager(null, 0);
+		showRoom.updateManager(7899732723l);
 		showRoom.displayManager();
-
+		showRoom.deleteManager();
+		
 	}
 
 }
