@@ -1,0 +1,6 @@
+package com.xworkz.engineer.constants;
+
+public enum Branches {
+	CS,IS,ECE,EEE,MECH,CIVIL,MECHETRON,AERONOTICS,TCE,CHEMICAL,IT,ROBOTICS,ARCHITECTURE,TEXTILE,AUTOMOBILE;
+
+}
